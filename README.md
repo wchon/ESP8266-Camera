@@ -1,4 +1,4 @@
-# ArduCAM-mini-ESP8266-12E-Camera-Server
+# ArduCAM-mini-ESP8266-12E-Web-Camera-Server
 Source code designed to work with an ESP8266-12E and an ArduCAM Mini 5MP Camera.
 
 Copy the contents of the /libraries folder into the Arduino Libraries folder.
