@@ -2,7 +2,7 @@
 Source code designed to work with an ESP8266 and an ArduCAM Mini 5MP Camera.
 
 Main Components:
-ArduCAM Mini 5MP 
+ArduCAM Mini 5MP. 
 ESP8266 development board. 
 
 Features:
